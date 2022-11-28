@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T09:34:32.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.6.0" etag="NMOTiNJtQsvfVrcQ5l2w" type="github"><diagram id="pJWypBD6wSjFTfhsVipi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-28T09:49:53.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.6.0" etag="oFqJkQhP1AZCLqpOiSob" type="github">
+  <diagram id="FxTMn8ei7DUXmLBSibuJ" name="Page-1">
+    <mxGraphModel dx="526" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mzVEFbXFRwxB7I3G6vvZ-2" target="mzVEFbXFRwxB7I3G6vvZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-2" value="Start" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-4" value="&lt;b&gt;How to make omelette&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mzVEFbXFRwxB7I3G6vvZ-9" target="mzVEFbXFRwxB7I3G6vvZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-9" value="Collect cooking equipment" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mzVEFbXFRwxB7I3G6vvZ-14" target="mzVEFbXFRwxB7I3G6vvZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-14" value="Prepare ingredients" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mzVEFbXFRwxB7I3G6vvZ-16" target="mzVEFbXFRwxB7I3G6vvZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-16" value="Whisk eggs and milk in bowl" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mzVEFbXFRwxB7I3G6vvZ-18" target="mzVEFbXFRwxB7I3G6vvZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-18" value="Add others ingredients into egg mixture" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mzVEFbXFRwxB7I3G6vvZ-20" target="mzVEFbXFRwxB7I3G6vvZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-20" value="Crack eggs in bowl" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mzVEFbXFRwxB7I3G6vvZ-23" target="mzVEFbXFRwxB7I3G6vvZ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-23" value="Add other ingredients into egg mixture" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mzVEFbXFRwxB7I3G6vvZ-25" target="mzVEFbXFRwxB7I3G6vvZ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-25" value="Heat fly pan on stove" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mzVEFbXFRwxB7I3G6vvZ-27" target="mzVEFbXFRwxB7I3G6vvZ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-27" value="Add butter and egg mixture to pan once hot" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mzVEFbXFRwxB7I3G6vvZ-29" target="mzVEFbXFRwxB7I3G6vvZ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-29" value="Cook until bottom side is cooked" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mzVEFbXFRwxB7I3G6vvZ-31" target="mzVEFbXFRwxB7I3G6vvZ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-31" value="Use egg flipper to flip the omelette in the pan" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mzVEFbXFRwxB7I3G6vvZ-34" value="End" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
